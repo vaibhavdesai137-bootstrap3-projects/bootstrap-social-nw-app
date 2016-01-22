@@ -29,6 +29,14 @@ header .logo {
     border: 1px solid gray
 }
 
+.likes {
+    margin-top: -15px;
+}
+
+.fa-thumbs-up {
+  color: #033769;
+}
+
 .comment-form .form-group {
     width: 80%;
 }
