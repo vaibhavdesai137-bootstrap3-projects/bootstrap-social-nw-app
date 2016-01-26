@@ -12,5 +12,5 @@
 * List Styling
 * Horizontal Form
 * Image Modal
-* Gallery Plugin (using ekkobox js library)
+* Gallery Plugin (using ekko-lightbox js library)
 * Responsive Media Queries
